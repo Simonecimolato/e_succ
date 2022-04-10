@@ -6,7 +6,7 @@ close all
 %parpool;
 
 %%
-dim = 15; %max is 15
+dim = 15; %max for base 10 is 15
 base = 10;
 it = zeros(dim,1);
 
